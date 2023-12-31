@@ -1,2 +1,1 @@
-# junior_accountant
-junior accountant notebook
+个人学习初级会计的笔记
